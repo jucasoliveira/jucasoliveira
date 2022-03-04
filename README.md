@@ -10,9 +10,9 @@ Here are some ideas to get you started:
 
 <img align="right" src="https://user-images.githubusercontent.com/62502140/118968813-ffe83c00-b989-11eb-8bcd-45f41037092b.png" alt="ria-monga" height="400" />
 
-- 🔭 I’m currently working on CarTrawler
-- 🌱 I’m currently a FullTime Front End engineer
-- 👯 I’m looking to collaborate on projects
-- 🤔 I’m looking for help with Python
-- 💬 Ask me about blogs
+- 👨‍💻 I’m a Software Engineer currently working on CarTrawler
+- 👽 I’m a Minimalist
+- 📚 Author of “How to Stop Bitcoin”
+- ✊ Natural Rights activist 
 - ⚡ Fun fact: I'm a weirdo
+- 🇮🇪 @Dublin/IE 
