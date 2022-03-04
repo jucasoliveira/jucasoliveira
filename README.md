@@ -27,25 +27,16 @@ Here are some ideas to get you started:
 
   <!--    <a href"" target="_blank"> <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /> </a><a href"" target="_blank"> <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" /> </a> <a href"" target="_blank"> <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" /> </a> -->
    
-<details>
-  <summary>:zap: GitHub Stats </summary>
+:zap: GitHub Stats
 
-   ![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=jucasoliveira&count_private=true&show_icons=true&theme=tokyonight)
+  ![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=jucasoliveira&count_private=true&show_icons=true&theme=tokyonight)
 
-</details>
-   
-<details>
-  <summary>:zap: Top Languages </summary>
+:zap: Top Languages
 
-<!--    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jucasoliveira)](https://github.com/anuraghazra/github-readme-stats) -->
+  <!--    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jucasoliveira)](https://github.com/anuraghazra/github-readme-stats) -->
    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jucasoliveira&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-
-</details>
-   
-<details>
-  <summary>:zap: Random Dev Jokes </summary>
+  
+:zap: Random Dev Jokes
    
    <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%236C8BC9&qColor=%23ffffff&aColor=%23455A64&borderColor=%23455A64" alt="README Jokes"></a>
-   
-</details>
