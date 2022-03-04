@@ -1,4 +1,4 @@
-<img align="center" src="https://user-images.githubusercontent.com/11979969/156732595-7f46b82b-328a-41b8-8c5b-3ee3f5c9bed8.png" height="250px">
+![image](https://user-images.githubusercontent.com/11979969/156732595-7f46b82b-328a-41b8-8c5b-3ee3f5c9bed8.png)
 <!--
 **jucasoliveira/jucasoliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
