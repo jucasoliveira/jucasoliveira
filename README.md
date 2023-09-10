@@ -5,14 +5,14 @@
 Here are some ideas to get you started:
 
 -->
-# I'm a fullstack developer, and a tech enthusiast! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="39px">
+# I'm a fullstack developer and a tech enthusiast! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="39px">
 
-- 👨‍💻 I’m a Software Engineer currently working on CarTrawler
+- 👨‍💻 I’m a Senior Software Engineer currently working on TALY Subscriptions
 - 👽 I’m a Minimalist
 - 📚 Author of “How to Stop Bitcoin”
-- ✊ Natural Rights activist 
+- ✊ Natural Rights activist
 - ⚡ Fun fact: I'm a weirdo
-- 🇮🇪 @Dublin/IE 
+- 🇮🇪 @Dublin/IE
 
 <!-- - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/lucas-ooliveira/), [Twitter](https://twitter.com/jucas_oliveira) -->
 
