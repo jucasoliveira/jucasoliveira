@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 # I'm a fullstack developer, and a tech enthusiast! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="39px">
 
-- 👨‍💻 I’m a Software Engineer currently working on CarTrawler
+- 👨‍💻 I’m a Software Engineer currently working @ Taly Subscriptions
 - 👽 I’m a Minimalist
 - 📚 Author of “How to Stop Bitcoin”
 - ✊ Natural Rights activist 
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 
 - 📫 How to reach me:
-  - [LinkedIn](https://www.linkedin.com/in/lucas-ooliveira/),
+  - [LinkedIn](https://www.linkedin.com/in/lucas-ooliveira/)
   - [Twitter](https://twitter.com/jucas_oliveira)
   - [Medium](https://medium.com/@jucasoliveira)
   - [Stack Overflow](https://stackoverflow.com/users/5668696/lucas-oliveira)
