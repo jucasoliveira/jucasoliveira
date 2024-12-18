@@ -18,7 +18,7 @@ Here are some ideas to get you started:
   - [Twitter](https://twitter.com/lgrodev)
   - [Medium](https://medium.com/@jucasoliveira)
   - [Stack Overflow](https://stackoverflow.com/users/5668696/lucas-oliveira)
-  - [Instagram](https://www.instagram.com/thelukeisonthetable/)
+  - [Instagram](https://www.instagram.com/lgro.dev/)
 
   
 :zap: Random Dev Jokes
