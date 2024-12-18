@@ -5,14 +5,12 @@
 Here are some ideas to get you started:
 
 -->
-# I'm a fullstack developer, and a tech enthusiast! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="39px">
 
-- 👨‍💻 I’m a Software Engineer currently working @ Taly Subscriptions
+- 👨‍💻 I’m a Software Engineer currently working @ Colgate
 - 👽 I’m a Minimalist
-- 📚 Author of “How to Stop Bitcoin”
+- 📚 Author of “How to Stop Bitcoin” & "Tech Citizen"
 - ✊ Natural Rights activist 
-- ⚡ Fun fact: I'm a weirdo
-- 🇮🇪 @Dublin/IE 
+- 🇮🇪 @Carlow/IE 
 
 
 - 📫 How to reach me:
@@ -21,16 +19,6 @@ Here are some ideas to get you started:
   - [Medium](https://medium.com/@jucasoliveira)
   - [Stack Overflow](https://stackoverflow.com/users/5668696/lucas-oliveira)
   - [Instagram](https://www.instagram.com/thelukeisonthetable/)
-
-
-:zap: GitHub Stats
-
-  ![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=jucasoliveira&count_private=true&show_icons=true&theme=tokyonight)
-
-:zap: Top Languages
-
-  <!--    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jucasoliveira)](https://github.com/anuraghazra/github-readme-stats) -->
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jucasoliveira&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 
   
 :zap: Random Dev Jokes
