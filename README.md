@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 
 -->
 
-- 👨‍💻 I’m a Software Engineer currently working @ Colgate
+- 👨‍💻 I’m a Software Engineer 
 - 👽 I’m a Minimalist
 - 📚 Author of “How to Stop Bitcoin” & "Tech Citizen"
 - ✊ Natural Rights activist 
