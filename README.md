@@ -14,10 +14,8 @@ Here are some ideas to get you started:
 
 
 - 📫 How to reach me:
-  - [LinkedIn](https://www.linkedin.com/in/lucas-ooliveira/)
   - [Twitter](https://twitter.com/lgrodev)
   - [Medium](https://medium.com/@jucasoliveira)
-  - [Stack Overflow](https://stackoverflow.com/users/5668696/lucas-oliveira)
   - [Instagram](https://www.instagram.com/lgro.dev/)
 
   
